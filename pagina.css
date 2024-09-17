@@ -1,0 +1,43 @@
+.tabelas{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width:100%;
+    font-size: 32px;
+}
+.tabelas-1{
+    color: black;
+    
+}
+.tabelas-2{
+    color: black;
+}
+.tabelas-3{
+    color: blue;
+}
+.tabelas-4{
+    color: rgb(44, 87, 2);
+}
+.tabelas-5{
+    color: red;
+}
+.tabelas-6{
+    color: rgb(49, 49, 153);
+}
+.imagem-2{
+    width: 40px;
+}
+.imagem-1{
+    width:40px ;
+}
+.imagem-3{
+    width: 40px;
+}
+.imagem-4{
+  width: 40px;
+}
+.imagem-5{
+    width: 40px;
+}
+th, td {
+    border-style:solid;
+    border-color: #96D4D4;
+  }
